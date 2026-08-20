@@ -1,0 +1,15 @@
+{
+	"name": "factoryForMe",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Disabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ac73110e-5eb6-473c-a3ce-1bd8758d9b06",
+		"tenantId": "debbafef-0734-4f15-acc7-efe44b1f4e1e"
+	}
+}
